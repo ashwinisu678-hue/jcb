@@ -8,6 +8,7 @@ public class JenkinsPracticeTest {
 	public void jenkisPractice() {
 	
 			Reporter.log("Hii Jenkis",true);
+			Reporter.log("Bye jenkis",true);
 	}
 
 }
